@@ -52,7 +52,7 @@ Add line in your file: android/app/build.gradle
 
 dependencies {
     ...
-    compile project(':reactnativesignaturecapture') // <-- add this line
+    implementation project(':reactnativesignaturecapture') // <-- add this line
 }
 ```
 
